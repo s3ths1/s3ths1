@@ -7,3 +7,5 @@ Mostly working with Python and FastAPI. Lately, I've been spending a lot of time
 I like understanding how things work under the hood, automating stuff, and building things that don't fall apart the moment you touch them.
 
 Sometimes Rust. Sometimes JavaScript. Always tinkering with something.
+
+My blog: [s3ths1.wiki](https://s3ths1.wiki)
